@@ -19,7 +19,7 @@ Resources and activities for new NBC lab members. Inspired by the [Whitaker lab'
 2. Ask [Taylor](mailto:tsalo006@fiu.edu) to give you access to the NBC lab [Google Drive folder](https://drive.google.com/drive/u/0/folders/0B543K-QXbp21WERUMkc5SVhjODg).
 3. Ask XXXX to give you access to the NBC lab Dropbox folder.
 4. Follow instructions [here](http://ircc.fiu.edu/accounts/) to obtain access to the FIU High Performance Cluster (HPC). We perform most of our data analysis on the HPC.
-5. MRI safety training
+5. MRI safety training! [Diamela](mailto:darencib@FIU.EDU) coordinates and sends out emails that announce regular safety training opportunities.
 6. Send [Taylor](mailto:tsalo006@fiu.edu) a blurb, photo, and any relevant links for the [lab website](https://nbclab.github.io). You can see examples by navigating to lab members' personal pages from the [Team](https://nbclab.github.io/team/) page.
     - Ultimately, we would like you to contribute changes to the website (e.g., news or blog posts, updates to your profile) more directly, by forking the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io), making changes to your fork, and opening pull requests back to the main repository. However, for new lab members, this is not necessary.
 
@@ -32,6 +32,6 @@ Resources and activities for new NBC lab members. Inspired by the [Whitaker lab'
     - Ultimately, we would like you to contribute changes to the website (e.g., news or blog posts, updates to your profile) more directly, by forking the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io), making changes to your fork, and opening pull requests back to the main repository. However, for new lab members, this is not necessary.
 
 ## For undergraduate research assistants
-1.
+1. Point them toward the [recommended reading list](http://google.com) for undergraduate assistants.
 2. Talk to the undergraduate research assistant coordinator to find out about the projects that are looking for assistance.
-3.Once you know the project that you would like to work on, set up a meeting with the graduate student involved to know more about the project.
+3. Once you know the project that you would like to work on, set up a meeting with the graduate student involved to know more about the project.
