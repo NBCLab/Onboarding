@@ -31,3 +31,6 @@ Resources and activities for new NBC lab members. Inspired by the [Whitaker lab'
     - Ultimately, we would like you to contribute changes to the website (e.g., news or blog posts, updates to your profile) more directly, by forking the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io), making changes to your fork, and opening pull requests back to the main repository. However, for new lab members, this is not necessary.
 
 ## For undergraduate research assistants
+1.
+2. Talk to the undergraduate research assistant coordinator to find out about the projects that are looking for assistance.
+3.Once you know the project that you would like to work on, set up a meeting with the graduate student involved to know more about the project.
