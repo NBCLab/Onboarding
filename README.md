@@ -11,6 +11,7 @@ Resources and activities for new NBC lab members. Inspired by the [Whitaker lab'
     - The FIU neuroscience Slack team is great for inter-lab communication and for organizing journal clubs or other activities. The cognitive neuroscience grad student colloquium is also organized on this Slack team.
     - There is also a great [BrainHack](https://brainhack-slack-invite.herokuapp.com) Slack team with over 1500 members that anyone can join. That team has a lot of channels associated with interesting projects or interests.
 3. Make sure that you are up-to-date on your [CITI](https://about.citiprogram.org/en/homepage/) certification in order to work on our projects. For our lab, this means completing the "Biomedical Human Research Course". Once you've completed the course (or if you already have and your certification has not expired), save your certification to a file and send the file to XXXX.
+    - If you are a graduate student, postdoc, or new faculty you will also have to complete the "Responsible Conducts in Research" course at some point within the first year (?) of joining the lab.
 4. Talk to XXXX about being added to IRBs for projects you'll work on.
 
 ## For graduate students
