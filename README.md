@@ -18,7 +18,7 @@ Resources and activities for new NBC lab members. Inspired by the [Whitaker lab'
 ## For graduate students
 1. Make sure to forward your employee email (e.g., `tsalo@fiu.edu`) to your student email (e.g., `tsalo006@fiu.edu`), or vice versa. Important emails may be sent to either or both, so it is very helpful to just forward one to the other.
 2. Ask [Taylor](mailto:tsalo006@fiu.edu) to give you access to the NBC lab [Google Drive folder](https://drive.google.com/drive/u/0/folders/0B543K-QXbp21WERUMkc5SVhjODg).
-3. Ask XXXX to give you access to the NBC lab Dropbox folder.
+3. Ask Dr. Laird to give you access to the NBC lab Dropbox folder.
 4. Follow instructions [here](http://ircc.fiu.edu/accounts/) to obtain access to the FIU High Performance Cluster (HPC). We perform most of our data analysis on the HPC.
 5. MRI safety training! [Diamela](mailto:darencib@fiu.edu) coordinates and sends out emails that announce regular safety training opportunities.
 6. Sign up for the following science-related services:
