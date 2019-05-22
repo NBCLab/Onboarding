@@ -28,10 +28,10 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 1. The NBC Lab's [Public Google Drive folder](https://drive.google.com/drive/folders/0B543K-QXbp21cTV0RjNoNUtMWnM?usp=sharing) contains a folder called "recommended-reading". A list of recommended textbooks, journal articles, and youtube videos are provided, organized by topic. Topics range from an introduction to MRI data acquisition and analysis to recent papers published by lab members to papers related to newly launched projects. 
 
 ## Graduate Students
-Make sure to forward your employee email (e.g., `tsalo@fiu.edu`) to your student email (e.g., `tsalo006@fiu.edu`), or vice versa. Important emails may be sent to either or both, so it is very helpful to just forward one to the other.
+1. Make sure to forward your employee email (e.g., `tsalo@fiu.edu`) to your student email (e.g., `tsalo006@fiu.edu`), or vice versa. Important emails may be sent to either or both, so it is very helpful to just forward one to the other.
 
 ## Other Science Community Resources
-Sign up for the following science-related services:
+1. Sign up for the following science-related services:
     - [ORCID](https://orcid.org)
     - [Google Scholar](https://scholar.google.com)
     - [Open Science Framework](https://osf.io)
