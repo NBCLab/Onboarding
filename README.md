@@ -11,14 +11,14 @@ Resources and activities for new NBC lab members. Inspired by the [Whitaker lab'
     - The FIU neuroscience Slack team is great for inter-lab communication and for organizing journal clubs or other activities. The cognitive neuroscience grad student colloquium is also organized on this Slack team.
     - There is also a great [BrainHack](https://brainhack-slack-invite.herokuapp.com) Slack team with over 1500 members that anyone can join. That team has a lot of channels associated with interesting projects or interests.
     - Also use links available in each Slack team to join the associated Trello teams. We use [Trello](https://trello.com) for project management.
-3. Make sure that you are up-to-date on your [CITI](https://about.citiprogram.org/en/homepage/) certification in order to work on our projects. For our lab, this means completing the "Biomedical Human Research Course". Once you've completed the course (or if you already have and your certification has not expired), save your certification to a file and send the file to XXXX.
-    - If you are a graduate student, postdoc, or new faculty you will also have to complete the "Responsible Conducts in Research" course at some point within the first year (?) of joining the lab.
-4. Talk to XXXX about being added to IRBs for projects you'll work on.
+3. Make sure that you are up-to-date on your [CITI](https://about.citiprogram.org/en/homepage/) certification in order to work on our projects. For our lab, this means completing the "Biomedical Human Research Course". Once you've completed the course (or if you already have and your certification has not expired), save your certification to a file and send the file to [Laura](mailto:lucros@fiu.edu).
+    - If you are a graduate student, postdoc, or new faculty you also need to complete the ["Responsible Conduct in Research" course](http://research.fiu.edu/rcr/training/). The completion certificate should also be sent to [Laura](mailto:lucros@fiu.edu).
+4. Our projects are reviewed by [FIU's Institutional Review Board (IRB)](http://research.fiu.edu/irb/) to ensure the protection of human subjects in research. Talk to both [Chelsea]mailto:cgreaves@fiu.edu and [Laura](mailto:lucros@fiu.edu) about being added to IRBs for projects you'll work on. You must complete this before working with any research participant or analyzing any data.
 
 ## For graduate students
 1. Make sure to forward your employee email (e.g., `tsalo@fiu.edu`) to your student email (e.g., `tsalo006@fiu.edu`), or vice versa. Important emails may be sent to either or both, so it is very helpful to just forward one to the other.
 2. Ask [Taylor](mailto:tsalo006@fiu.edu) to give you access to the NBC lab [Google Drive folder](https://drive.google.com/drive/u/0/folders/0B543K-QXbp21WERUMkc5SVhjODg).
-3. Ask Dr. Laird to give you access to the NBC lab Dropbox folder.
+3. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC lab Dropbox folder.
 4. Follow instructions [here](http://ircc.fiu.edu/accounts/) to obtain access to the FIU High Performance Cluster (HPC). We perform most of our data analysis on the HPC.
 5. MRI safety training! [Diamela](mailto:darencib@fiu.edu) coordinates and sends out emails that announce regular safety training opportunities.
 6. Sign up for the following science-related services:
