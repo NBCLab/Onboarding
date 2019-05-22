@@ -16,7 +16,7 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
     - The FIU Neuroscience Slack workspace is great for inter-lab communication and for organizing journal clubs or other activities. The cognitive neuroscience grad student colloquium is also organized on this Slack workspace.
     - There is also a great [BrainHack](https://brainhack-slack-invite.herokuapp.com) Slack workspace with over 1500 members that anyone can join. That space has a lot of channels associated with interesting projects or initiatives.
     - Also use links available in each Slack space to join the associated Trello boards. We use [Trello](https://trello.com) for project management. 
-8. Follow instructions [here](http://ircc.fiu.edu/accounts/) to obtain access to the FIU High Performance Cluster (HPC). We perform most of our data analysis on the HPC.
+8. Follow instructions [here](http://ircc.fiu.edu/accounts/) to obtain access to the FIU High Performance Cluster (HPC). We perform most of our data analysis on the HPC. [Michael](mailto:miriedel@fiu.edu) is your point of contact for the lab's access and use of the HPC. 
 
 ## Regulatory Compliance and Training
 1. Make sure that you are up-to-date on your [CITI](https://about.citiprogram.org/en/homepage/) certification in order to work on our projects. For our lab, this means completing the "Biomedical Human Research Course". Once you've completed the course (or if you already have and your certification has not expired), save your certification to a file and send the file to [Laura](mailto:lucros@fiu.edu).
@@ -40,7 +40,7 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 1. Send [Taylor](mailto:tsalo006@fiu.edu) a blurb, photo, and any relevant links for the [lab website](https://nbclab.github.io). You can see examples by navigating to lab members' personal pages from the [Team](https://nbclab.github.io/team/) page.
 2. Ultimately, we would like you to contribute changes to the website (e.g., news or blog posts, updates to your profile) more directly, by forking the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io), making changes to your fork, and opening pull requests back to the main repository. However, for new lab members, this is not necessary.
     
-## For undergraduate research assistants
+## Undergraduate Research Assistants
 1. Please read the recommended reading (above).
 2. Talk to the undergraduate research assistant coordinator to find out about the projects that are looking for assistance.
 3. Once you know the project that you would like to work on, set up a meeting with the graduate student involved to know more about the project.
