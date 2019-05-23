@@ -14,7 +14,7 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 7. Join the [NBC Lab](https://neuroinformaticslab.slack.com) and [FIU Neuroscience](https://fiuneuro.slack.com) Slack teams by asking [Taylor](mailto:tsalo006@fiu.edu) to send you an invite.
     - We use the NBC Lab Slack workspace to share news and posts related to the lab. The general channel is synced with the lab's Google Calendar, so it posts reminders for lab and project meetings. There are also individual channels for our ongoing projects... feel free to browse these based on your interests.
     - The FIU Neuroscience Slack workspace is great for inter-lab communication and for organizing journal clubs or other activities. The cognitive neuroscience grad student colloquium is also organized on this Slack workspace.
-    - There is also a great [BrainHack](https://brainhack-slack-invite.herokuapp.com) Slack workspace with over 1500 members that anyone can join. That space has a lot of channels associated with interesting projects or initiatives.
+    - There is also a great [BrainHack](https://mattermost.brainhack.org) Mattermost workspace with over 1500 members that anyone can join. That space has a lot of channels associated with interesting projects or initiatives. Mattermost is an open source Slack alternative.
     - Also use links available in each Slack space to join the associated Trello boards. We use [Trello](https://trello.com) for project management. 
 8. Follow instructions [here](http://ircc.fiu.edu/accounts/) to obtain access to the FIU High Performance Cluster (HPC). We perform most of our data analysis on the HPC. [Michael](mailto:miriedel@fiu.edu) is your point of contact for the lab's access and use of the HPC. 
 
