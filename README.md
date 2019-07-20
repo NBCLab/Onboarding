@@ -17,7 +17,7 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
     - There is also a great [BrainHack](https://mattermost.brainhack.org) Mattermost workspace with over 1500 members that anyone can join. That space has a lot of channels associated with interesting projects or initiatives. Mattermost is an open source Slack alternative. To join the BrainHack workspace, use [this invite link](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrqa).
     - Also use links available in each Slack space to join the associated Trello boards. We use [Trello](https://trello.com) for project management. 
 8. Follow instructions [here](http://ircc.fiu.edu/accounts/) to obtain access to the FIU High Performance Cluster (HPC). We perform most of our data analysis on the HPC. [Michael](mailto:miriedel@fiu.edu) is your point of contact for the lab's access and use of the HPC.
-9. Follow instructions [here](https://castic.fiu.edu/main/app/core/helpguides/Papercut-Mac.pdf) to obtain access to printer queue. This will allow you to send your print jobs to a queue and release the jobs on the toshiba printers in AHC-4 using your Panther ID card.
+9. Follow instructions [here](https://castic.fiu.edu/main/app/core/helpguides/Papercut-Mac.pdf) to obtain access to the printer queue. This will allow you to send your print jobs to a queue and release the jobs on the Toshiba printers in AHC-4 using your Panther ID card.
 
 ## Regulatory Compliance and Training
 1. Every member of our lab that will be involved in any part of our research must complete some online courses through a program called CITI. The courses provide historical information of the use of human subjects in research as well as guidelines for keeping information gathered from participants confidential and protected. These courses should be completed prior to your start in the lab. Here are the instructions for creating an account and accessing these courses:
@@ -47,6 +47,19 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
     - [ORCID](https://orcid.org)
     - [Google Scholar](https://scholar.google.com)
     - [Open Science Framework](https://osf.io)
+
+## Necessary Software
+1. Python 3: A large portion of the code used in the lab is written in Python. Install Python on your laptop using the [Anaconda distribution](https://docs.anaconda.com/anaconda/install/#installation).
+2. [Atom](https://atom.io): Atom is a text editor you can use to write code. There are a number of add-on packages you can install to add helpful features.
+3. A [VNC client](http://ircc.fiu.edu/visualization/): You will need a VNC client like VNCViewer in order to access visualization nodes on the HPC.
+4. A [VPN Client](https://network.fiu.edu/vpn/): You will need a VPN client like Cisco AnyConnect in order to access the HPC from home.
+5. An SCP Client: You will need an SCP client like [Cyberduck](https://cyberduck.io) to transfer files to and from the HPC.
+6. [Docker](https://docs.docker.com/get-started/): Docker allows you to build and use containers on your laptop.
+7. [git](https://help.github.com/en/articles/set-up-git): git is necessary for version control and is a key component of GitHub.
+  - You can also download [GitHub Desktop](https://desktop.github.com), which provides a simplified GUI for using git.
+8. PaperCut: See above for more information on how to install this software.
+9. Slack: See above.
+10. Google Drive
     
 ## The NBC Lab Website
 1. Send [Taylor](mailto:tsalo006@fiu.edu) a blurb, photo, and any relevant links for the [lab website](https://nbclab.github.io). You can see examples by navigating to lab members' personal pages from the [Team](https://nbclab.github.io/team/) page.
