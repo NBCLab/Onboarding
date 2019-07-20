@@ -56,7 +56,7 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 5. An SCP Client: You will need an SCP client like [Cyberduck](https://cyberduck.io) to transfer files to and from the HPC.
 6. [Docker](https://docs.docker.com/get-started/): Docker allows you to build and use containers on your laptop.
 7. [git](https://help.github.com/en/articles/set-up-git): git is necessary for version control and is a key component of GitHub.
-  - You can also download [GitHub Desktop](https://desktop.github.com), which provides a simplified GUI for using git.
+    - You can also download [GitHub Desktop](https://desktop.github.com), which provides a simplified GUI for using git.
 8. PaperCut: See above for more information on how to install this software.
 9. Slack: See above.
 10. Google Drive
