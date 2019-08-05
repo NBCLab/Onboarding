@@ -1,5 +1,5 @@
 # Onboarding
-Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab's](https://github.com/WhitakerLab) great [Onboarding](https://github.com/WhitakerLab/Onboarding) repo.
+Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab's](https://github.com/WhitakerLab) great [Onboarding](https://github.com/WhitakerLab/Onboarding) repository.
 
 ## Resource Access and Communication
 1. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC Lab and FIU Neuroscience Google calendars. 
