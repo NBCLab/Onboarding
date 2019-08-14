@@ -54,12 +54,11 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 3. A [VNC client](http://ircc.fiu.edu/visualization/): You will need a VNC client like VNCViewer in order to access visualization nodes on the HPC.
 4. A [VPN Client](https://network.fiu.edu/vpn/): You will need a VPN client like Cisco AnyConnect in order to access the HPC from home.
 5. An SCP Client: You will need an SCP client like [Cyberduck](https://cyberduck.io) to transfer files to and from the HPC.
-6. [Docker](https://docs.docker.com/get-started/): Docker allows you to build and use containers on your laptop.
-7. [git](https://help.github.com/en/articles/set-up-git): git is necessary for version control and is a key component of GitHub.
+6. [git](https://help.github.com/en/articles/set-up-git): git is necessary for version control and is a key component of GitHub.
     - You can also download [GitHub Desktop](https://desktop.github.com), which provides a simplified GUI for using git.
-8. PaperCut: See above for more information on how to install this software.
-9. Slack: See above.
-10. [Google Drive File Stream](https://support.google.com/drive/answer/7329379)
+7. PaperCut: See above for more information on how to install this software.
+8. Slack: See above.
+9. [Google Drive File Stream](https://support.google.com/drive/answer/7329379)
     
 ## The NBC Lab Website
 1. Send [Taylor](mailto:tsalo006@fiu.edu) a blurb, photo, and any relevant links for the [lab website](https://nbclab.github.io). You can see examples by navigating to lab members' personal pages from the [Team](https://nbclab.github.io/team/) page.
