@@ -58,8 +58,9 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
     - You can also download [GitHub Desktop](https://desktop.github.com), which provides a simplified GUI for using git.
 7. PaperCut: See above for more information on how to install this software.
 8. Slack: See above.
-9. [Google Drive File Stream](https://support.google.com/drive/answer/7329379)
-10. [Follow these instructions](https://help.github.com/en/articles/connecting-to-github-with-ssh) to set up git on the HPC.
+9. [Zotero](https://www.zotero.org): The NBC Lab recommends use of Zotero to help you collect, organize, cite, and share research. Download the application and browser plugin, then send your Zotero username to [Dr. Laird](mailto:alaird@fiu.edu) and she will add you to the NBC Lab Zotero group.
+10. [Google Drive File Stream](https://support.google.com/drive/answer/7329379)
+11. [Follow these instructions](https://help.github.com/en/articles/connecting-to-github-with-ssh) to set up git on the HPC.
     
 ## The NBC Lab Website
 1. Send [Taylor](mailto:tsalo006@fiu.edu) a blurb, photo, and any relevant links for the [lab website](https://nbclab.github.io). You can see examples by navigating to lab members' personal pages from the [Team](https://nbclab.github.io/team/) page.
