@@ -1,6 +1,10 @@
 # Onboarding
 Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab's](https://github.com/WhitakerLab) great [Onboarding](https://github.com/WhitakerLab/Onboarding) repository.
 
+## Getting Started
+1. Read the [NBC Lab Handbook](https://docs.google.com/document/d/12QHTfVnjxmVAk9pki2hhspnFJB7QeDR3scstHV8KE_c/edit).
+2. Trainees should complete the [NBC Lab Individual Development Plan for Predoctoral and Postdoctoral Scholars](https://docs.google.com/document/d/1ekRK--hkTqg_tBnRisoIZs_IVUrljK2tNyACyXpl8WY/edit?usp=sharing). Please create your own version of this file for editing: click on File → Make a copy and save to your Google Drive; share with others by clicking the blue Share link on the top right.
+
 ## Resource Access and Communication
 1. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC Lab and FIU Neuroscience Google calendars. 
 2. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC Lab [Google Drive folder](https://drive.google.com/drive/u/0/folders/0B543K-QXbp21WERUMkc5SVhjODg). This is a private folder accessible only by lab members. All research results (e.g., figures, tables) and associated documentation (e.g., manuscripts, conference abstracts) should be saved to the appropriate project sub-folder so that they are accessible to everyone. This helps us avoid Gdoc-related permissions issues. 
