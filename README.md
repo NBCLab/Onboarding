@@ -68,8 +68,7 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 1. [Follow these instructions](https://help.github.com/en/articles/connecting-to-github-with-ssh) to set up git on the HPC.
     
 ## The NBC Lab Website
-1. Send [Taylor Salo](mailto:tsalo006@fiu.edu) a blurb, photo, and any relevant links for the [lab website](https://nbclab.github.io). You can see examples by navigating to lab members' personal pages from the [Team](https://nbclab.github.io/team/) page.
-2. Ultimately, we would like you to contribute changes to the website (e.g., news or blog posts, updates to your profile) more directly, by forking the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io), making changes to your fork, and opening pull requests back to the main repository. However, for new lab members, this is not necessary.
+1. Follow the instructions on [this page](https://github.com/NBCLab/NBCLab.github.io/wiki/Adding-yourself-to-the-lab-website) to add your profile to the [lab website](https://nbclab.github.io). Also see the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io).
     
 ## Undergraduate Research Assistants
 1. Please read the recommended reading (above).
