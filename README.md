@@ -6,7 +6,7 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 2. Trainees should complete the [NBC Lab Individual Development Plan for Predoctoral and Postdoctoral Scholars](https://docs.google.com/document/d/1ekRK--hkTqg_tBnRisoIZs_IVUrljK2tNyACyXpl8WY/edit?usp=sharing). Please create your own version of this file for editing: click on File → Make a copy and save to your Google Drive; share with others by clicking the blue Share link on the top right.
 
 ## Resource Access and Communication
-1. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC Lab and FIU Neuroscience Google calendars. 
+1. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC Lab Google calendar. 
 2. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC Lab [Google Drive folder](https://drive.google.com/drive/u/0/folders/0B543K-QXbp21WERUMkc5SVhjODg). This is a private folder accessible only by lab members. All research results (e.g., figures, tables) and associated documentation (e.g., manuscripts, conference abstracts) should be saved to the appropriate project sub-folder so that they are accessible to everyone. This helps us avoid Gdoc-related permissions issues. 
 3. Join the [NBC Lab](https://neuroinformaticslab.slack.com) and [FIU Neuroscience](https://fiuneuro.slack.com) Slack teams by asking [Dr. Laird](mailto:alaird@fiu.edu) to send you an invite.
     - We use the NBC Lab Slack workspace to share news and posts related to the lab. After you've joined, click on "Channels" and browse the list to see the available discussions, which are separate by lab project. The general channel is synced with the lab's Google Calendar, so it posts reminders for lab and project meetings. Add yourself to any and all of the lab's channels so that you can stay up to date on all of our recent progress. 
@@ -72,9 +72,6 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 1. An SCP Client: You will need an SCP client like [Cyberduck](https://cyberduck.io) to transfer files to and from the HPC.
 1. [git](https://help.github.com/en/articles/set-up-git): git is necessary for version control and is a key component of GitHub.
     - You can also download [GitHub Desktop](https://desktop.github.com), which provides a simplified GUI for using git.
-1. PaperCut: See above for more information on how to install this software.
-1. Slack: See above.
-1. [Google Drive File Stream](https://support.google.com/drive/answer/7329379)
 1. [Follow these instructions](https://help.github.com/en/articles/connecting-to-github-with-ssh) to set up git on the HPC.
     
 ## Undergraduate Research Assistants
