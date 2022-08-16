@@ -31,8 +31,10 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
     - [FigShare](https://figshare.com)
 
 ## The NBC Lab Website
-1. Follow the instructions on [this page](https://github.com/NBCLab/NBCLab.github.io/wiki/Adding-yourself-to-the-lab-website) to add your profile to the [lab website](https://nbclab.github.io). Also see the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io).
+1. It's a great idea to have a place where folks can learn more about you and your research. Please create a page on the [NBC Lab website](https://nbclab.github.io) that's all about you. Follow the instructions on [this page](https://github.com/NBCLab/NBCLab.github.io/wiki/Adding-yourself-to-the-lab-website) to add your profile. Also see the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io).
 2. Provide links to your profiles on [ORCiD](https://orcid.org), [Google Scholar](https://scholar.google.com), [GitHub](https://github.com), [Open Science Framework](https://osf.io), [FigShare](https://figshare.com), [ResearchGate](https://www.researchgate.net), and [Twitter](https://twitter.com/home).
+3. Update the website regularly as you [upload preprints, publish papers](https://nbclab.github.io/papers/), and [present posters at conferences and workshops](https://nbclab.github.io/posters/).
+4. Win an award? Achieve a big milestone? Have an accomplishment you want the world to know about? Post a [news item](https://nbclab.github.io/news/) to the website! 
     
 ## Regulatory Compliance and Training
 1. Every member of our lab that will be involved in any part of our research must complete some online courses through a program called CITI. The courses provide historical information of the use of human subjects in research as well as guidelines for keeping information gathered from participants confidential and protected. These courses should be completed prior to your start in the lab. Here are the instructions for creating an account and accessing these courses:
