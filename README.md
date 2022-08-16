@@ -11,15 +11,29 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 3. Join the [NBC Lab](https://neuroinformaticslab.slack.com) and [FIU Neuroscience](https://fiuneuro.slack.com) Slack teams by asking [Dr. Laird](mailto:alaird@fiu.edu) to send you an invite.
     - We use the NBC Lab Slack workspace to share news and posts related to the lab. After you've joined, click on "Channels" and browse the list to see the available discussions, which are separate by lab project. The general channel is synced with the lab's Google Calendar, so it posts reminders for lab and project meetings. Add yourself to any and all of the lab's channels so that you can stay up to date on all of our recent progress. 
     - The FIU Neuroscience Slack workspace is great for inter-lab communication and for organizing journal clubs or other activities. The cognitive neuroscience grad student colloquium is also organized on this Slack workspace.
-4. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC Lab's Trello workspace. We use [Trello](https://trello.com) for project management. 
-5. Follow instructions [here](http://ircc.fiu.edu/accounts/) to obtain access to the FIU High Performance Cluster (HPC). We perform most of our data analysis on the HPC. [Michael Riedel](mailto:miriedel@fiu.edu) is your point of contact for the lab's access and use of the HPC.
-6. [Sign up](https://github.com/join?source=header-home) for a GitHub account and join the [NBCLab](https://github.com/NBCLab) and [FIU-Neuro](https://github.com/FIU-Neuro) organizations by asking [Taylor Salo](mailto:tsalo006@fiu.edu) to send you an invite.
+    - Please edit your profile in both workspaces to include your full name in your Display Name, not just your first name or username, as well as a photo.	Add a helpful description of your role under “What I Do”, e.g., “Postdoctoral Fellow with Dr. Laird”, “Graduate Student with Dr. Sutherland”, “Research Assistant for ABCD”, “Undergraduate Student with Katie Bottenhorn”. We’d like this field to tell us about your educational level and who/which projects you’re working with/on.
+4. [Sign up](https://github.com/join?source=header-home) for a GitHub account and join the [NBCLab](https://github.com/NBCLab) and [FIU-Neuro](https://github.com/FIU-Neuro) organizations by asking [Julio Peraza](mailto:jperaza@fiu.edu) to send you an invite.
     - We use GitHub to organize and share code related to our papers and ongoing projects. The NBC Lab organization is used for all lab-related projects, while the FIU-Neuro organization is used for tools that serve the whole program. 
     - You can sign up for a free account. By default, this does not come with private personal repositories, but you can either host private repositories under the NBCLab organization or [request an education discount](https://help.github.com/articles/applying-for-an-academic-research-discount/). They generally respond within a day or so.
     - Set your [NBCLab organization visibility](https://github.com/orgs/NBCLab/people) to public (it's private by default). We want people to see that you're a member of the lab. For the FIU-Neuro organization, it's your choice.
+    -  Similar to your Slack profile, please edit your GitHub profile to include your full name in your Display Name, not just your first name or username, as well as a photo and a helpful description of your role (i.e., your educational level and your membership in the NBC Lab).
+5. Ask [Dr. Laird](mailto:alaird@fiu.edu) to send you an invite to the NBC Lab's Trello workspace. We use [Trello](https://trello.com) for project management. 
+6. Follow instructions [here](http://ircc.fiu.edu/accounts/) to obtain access to the FIU High Performance Cluster (HPC). We perform most of our data analysis on the HPC. [Julio Peraza](mailto:jperaza@fiu.edu) is your point of contact for the lab's access and use of the HPC.
 7. We recommend that you use [Zotero](https://www.zotero.org) to help you collect, organize, cite, and share research. Download the application and browser plugin, then send your Zotero username to [Dr. Laird](mailto:alaird@fiu.edu) and she will add you to the NBC Lab Zotero group.
 8. (Optional) There is also a great [BrainHack](https://mattermost.brainhack.org) Mattermost workspace with over 1500 members that anyone can join. That space has a lot of channels associated with interesting projects or initiatives. Mattermost is an open source Slack alternative. To join the BrainHack workspace, use [this invite link](https://mattermost.brainhack.org/signup_user_complete/?id=orpd9qqjb7gqpnwg5k1fdagrqa).
 
+## Other Science Community Resources
+1. Sign up for the following science-related services:
+    - [ORCiD](https://orcid.org)
+    - [Google Scholar](https://scholar.google.com)
+    - [Open Science Framework](https://osf.io)
+    - [NeuroVault](https://neurovault.org)
+    - [FigShare](https://figshare.com)
+
+## The NBC Lab Website
+1. Follow the instructions on [this page](https://github.com/NBCLab/NBCLab.github.io/wiki/Adding-yourself-to-the-lab-website) to add your profile to the [lab website](https://nbclab.github.io). Also see the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io).
+2. Provide links to your profiles on [ORCiD](https://orcid.org), [Google Scholar](https://scholar.google.com), [GitHub](https://github.com), [Open Science Framework](https://osf.io), [FigShare](https://figshare.com), [ResearchGate](https://www.researchgate.net), and [Twitter](https://twitter.com/home).
+    
 ## Regulatory Compliance and Training
 1. Every member of our lab that will be involved in any part of our research must complete some online courses through a program called CITI. The courses provide historical information of the use of human subjects in research as well as guidelines for keeping information gathered from participants confidential and protected. These courses should be completed prior to your start in the lab. Here are the instructions for creating an account and accessing these courses:
     - Go to [CITI](https://www.citiprogram.org) 
@@ -49,12 +63,6 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 ## Graduate Students
 1. Grad students have two email addresses- a student email (which has numbers, like `tsalo006@fiu.edu`) and an employee email (which generally doesn't, like `tsalo@fiu.edu`). The student email is accessible on Gmail, while the employee email is accessed through Outlook. Make sure to forward your employee email to your student email, or vice versa. Important emails may be sent to either or both, so it is very helpful to just forward one to the other.
 
-## Other Science Community Resources
-1. Sign up for the following science-related services:
-    - [ORCID](https://orcid.org)
-    - [Google Scholar](https://scholar.google.com)
-    - [Open Science Framework](https://osf.io)
-
 ## Necessary Software
 1. Python 3: A large portion of the code used in the lab is written in Python. Install Python on your laptop using the [Anaconda distribution](https://docs.anaconda.com/anaconda/install/#installation).
 1. [VSCode](https://code.visualstudio.com): Visual Studio Code (VSCode) is a text editor you can use to write code. There are a number of add-on packages you can install to add helpful features.
@@ -66,9 +74,6 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 1. Slack: See above.
 1. [Google Drive File Stream](https://support.google.com/drive/answer/7329379)
 1. [Follow these instructions](https://help.github.com/en/articles/connecting-to-github-with-ssh) to set up git on the HPC.
-    
-## The NBC Lab Website
-1. Follow the instructions on [this page](https://github.com/NBCLab/NBCLab.github.io/wiki/Adding-yourself-to-the-lab-website) to add your profile to the [lab website](https://nbclab.github.io). Also see the [lab website's GitHub repository](https://github.com/NBCLab/NBCLab.github.io).
     
 ## Undergraduate Research Assistants
 1. Please read the recommended reading (above).
