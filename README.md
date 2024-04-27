@@ -82,7 +82,7 @@ If you are a new undergraduate student with the NBC Lab, please complete the fol
  
 ## Getting Started
 1. Respond to Dr. Laird's email request for your Google account info.
-2. Review the contents of the NBC Lab [Undergraduate Google Drive folder](https://drive.google.com/drive/u/0/folders/0B543K-QXbp21WERUMkc5SVhjODg). This is a folder that contains our undergraduate training materials and information about ongoing projects.
+2. Review the contents of the NBC Lab [Undergraduate Google Drive folder](https://drive.google.com/drive/folders/1-LOsWMTxu-sRawUVtYR7J-QqyK90bwSQ?usp=sharing). This is a folder that contains our undergraduate training materials and information about ongoing projects.
 3. In the Google Sheet, complete your cells in the tabs labeled "Student Preferences" and "Student Progress".
 
 ## Resource Access and Communication
