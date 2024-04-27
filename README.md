@@ -81,17 +81,16 @@ Grad students have two email addresses- a student email (which has numbers, like
 If you are a new undergraduate student with the NBC Lab, please complete the following steps:
  
 ## Getting Started
-1. Respond to Dr. Laird's email request for your Google account info.
-2. Review the contents of the NBC Lab [Undergraduate Google Drive folder](https://drive.google.com/drive/folders/1-LOsWMTxu-sRawUVtYR7J-QqyK90bwSQ?usp=sharing). This is a folder that contains our undergraduate training materials and information about ongoing projects.
-3. In the Google Sheet, complete your cells in the tabs labeled "Student Preferences" and "Student Progress".
+1. Review the contents of the NBC Lab [Undergraduate Google Drive folder](https://drive.google.com/drive/folders/1-LOsWMTxu-sRawUVtYR7J-QqyK90bwSQ?usp=sharing). This is a folder that contains our undergraduate training materials and information about ongoing projects.
+2. In the Google Sheet, complete your cells in the worksheet tabs labeled "Student Preferences" and "Student Progress".
 
 ## Resource Access and Communication
-1. Join the [NBC Lab](https://neuroinformaticslab.slack.com) Slack teams - once you have been onboarded, Dr. Laird will send you an invite. Please be patient and check your junk/clutter.
-    - We use the NBC Lab Slack workspace to discuss lab-related activities. After you've joined, click on "Channels" and browse the list to see the available discussions, which are separated by lab project (e.g., casa, embrace-raise, littleriver). Add yourself to any and all of the lab's channels so that you can stay up to date on all of our recent progress and discussions. 
+1. Join the [NBC Lab](https://neuroinformaticslab.slack.com) Slack teams - Dr. Laird will send you an invite. If you are waiting for your invitation, please be patient and keep an eye on your junk/clutter folders.
+    - We use the NBC Lab Slack workspace to discuss lab-related activities. After you've joined, click on "Channels" and browse the list to see the available discussions, which are separated by lab project (e.g., "casa", "embrace-raise", "littleriver"). Add yourself to any and all of the lab's channels so that you can stay up to date on all of our recent progress and discussions. 
     - Please edit your profile to include your full name in your Display Name, not just your first name or username, as well as a photo.	Add a helpful description of your role under “What I Do”, e.g., “Undergraduate Student”.
    
 ## Regulatory Compliance and Training
-1. Every member of our lab that will be involved in any part of our research must complete some online courses through a program called CITI. The courses provide historical information of the use of human subjects in research as well as guidelines for keeping information gathered from participants confidential and protected. These courses should be completed prior to your start in the lab. Here are the instructions for creating an account and accessing these courses:
+1. Every member of our lab that will be involved in any part of our research must complete some online courses through a program called CITI. The courses provide historical information of the use of human subjects in research, as well as guidelines for keeping information gathered from participants confidential and protected. These courses should be completed prior to your start in the lab. Here are the instructions for creating an account and accessing these courses:
     - Go to [CITI](https://www.citiprogram.org) 
     - On the left side of the page select the "Register" option located under the heading "Create an account".
     - Enter "Florida International University" as your affiliated institution and click "Continue".
@@ -102,8 +101,8 @@ If you are a new undergraduate student with the NBC Lab, please complete the fol
     - In the section that asks for the "Institutional email address", enter your FIU email address. In the section that asks for your "Role in Research", select "Research Assistant". Towards the bottom, for the section that asks for the "Office phone" write 305-348-0464, and when it asks "Which course do you plan to take?" select "Basic Human Subjects - Social & Behavioral Focus". Click "Continue".
     - When it asks "Do you conduct research in any of the following settings?" select "Human Subjects Research" and "Health Information Privacy and Security (HIPS)". When it asks "Do you conduct or supervise studies that use human subjects?" select "Social & Behavioral Human Research Investigators Course". When it says "If you want to take Health Information Privacy and Security (HIPS), please make your selection below", select "Health Information Privacy and Security (HIPS) Course - Information for Investigators"
     - To finish creating your account click "Finalize Registration". Now you will be able to access the courses.
-2. When you complete the courses you will get a certificate of completion. Please place a copy of the pdf certificate in the Google Drive under irb-resources --> citi-certs.
-3. Our projects are reviewed by [FIU's Institutional Review Board (IRB)](http://research.fiu.edu/irb/) to ensure the protection of human subjects in research. Dr. Laird will add you to the IRB-approved protocols for the project(s) you'll work on. For us to do this, you need to register in FIU's [TOPAZ Online IRB Protocol System](https://research.fiu.edu/irb/topaz/). Submit a [Topaz Protocol Access Request Form](https://webforms.fiu.edu/view.php?id=2099084) so that you will show up in the system and can be added to our IRB protocols. 
+2. When you complete the courses you will get a certificate of completion. Please place a copy of the pdf certificate in the Google Drive in the folder "CITI-certs".
+3. Our projects are reviewed by [FIU's Institutional Review Board (IRB)](http://research.fiu.edu/irb/) to ensure the protection of human subjects in research. Dr. Laird will add you to the IRB-approved protocols for the project you'll work on. But first, you need to register in FIU's [TOPAZ Online IRB Protocol System](https://research.fiu.edu/irb/topaz/). Submit a [Topaz Protocol Access Request Form](https://webforms.fiu.edu/view.php?id=2099084) so that you will show up in the system and can be added to our IRB protocols. 
 4. Please confirm that you have been added with Dr. Laird BEFORE interacting with any research participant or analyzing any data. 
 
 ## MRI Safety Training
