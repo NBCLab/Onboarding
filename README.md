@@ -4,9 +4,12 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 # Graduate Student Onboarding
 If you are a new graduate student with the NBC Lab, please complete the following steps:
  
-## Getting Started
+## Getting Started on a Research Project
 1. Read the [NBC Lab Handbook](https://docs.google.com/document/d/12QHTfVnjxmVAk9pki2hhspnFJB7QeDR3scstHV8KE_c/edit).
-2. Trainees should complete the [NBC Lab Individual Development Plan for Predoctoral and Postdoctoral Scholars](https://docs.google.com/document/d/1ekRK--hkTqg_tBnRisoIZs_IVUrljK2tNyACyXpl8WY/edit?usp=sharing). Please create your own version of this file for editing: click on File → Make a copy and save to your Google Drive; share with others by clicking the blue Share link on the top right.
+2. Complete the [NBC Lab Neuroimaging Training & Resources Plan](https://docs.google.com/document/d/16QDYc9xTYYMlgNUZJ4C0o-IuSS6xLpeR56r3b0ND49E/edit?usp=sharing). This comprehensive document provides resources for learning the basics of programming and data analytics. In addition, provides resources for learning basic Python modules for fMRI research.
+3. Work your way through the [NBC Lab Boot Camp Videos](https://docs.google.com/spreadsheets/d/1gioc-fh-IEubmSVCfovSUdcbqCnWJ92kxk450epA60k/edit?gid=0#gid=0). Please add a row with your name to track your progress through these videos.
+4. Complete the [Recommended Reading](https://drive.google.com/drive/folders/1cq5J_Nx4ZgcSYTDrgfYueWlYt34phNsl). 
+5. Once you have grasped the basics and are ready to work on your own, independent research project, trainees should complete the [NBC Lab Individual Development Plan for Predoctoral and Postdoctoral Scholars](https://docs.google.com/document/d/1ekRK--hkTqg_tBnRisoIZs_IVUrljK2tNyACyXpl8WY/edit?usp=sharing). Please create your own version of this file for editing: click on File → Make a copy and save to your Google Drive; share with others by clicking the blue Share link on the top right.
 
 ## Resource Access and Communication
 1. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC Lab Outlook calendar. 
@@ -63,7 +66,7 @@ Every member of our lab should complete MRI safety training so that you will be 
 2. Follow instructions [here](https://castic.fiu.edu/main/app/core/helpguides/Papercut-Mac.pdf) to obtain access to the printer queue. This will allow you to send your print jobs to a queue and release the jobs on the Toshiba printers in AHC-4 using your Panther ID card.
 
 ## Recommended Reading
-The NBC Lab's [Public Google Drive folder](https://drive.google.com/drive/folders/0B543K-QXbp21cTV0RjNoNUtMWnM?usp=sharing) contains a folder called "recommended-reading". A list of recommended textbooks, journal articles, and youtube videos are provided, organized by topic. Topics range from an introduction to MRI data acquisition and analysis to recent papers published by lab members to papers related to newly launched projects. 
+The NBC Lab's [Public Google Drive folder](https://drive.google.com/drive/folders/1cq5J_Nx4ZgcSYTDrgfYueWlYt34phNsl?usp=share_link) contains a folder called "recommended-reading". A list of recommended textbooks, journal articles, and youtube videos are provided, organized by topic. Topics range from an introduction to MRI data acquisition and analysis to recent papers published by lab members to papers related to newly launched projects. 
 
 ## Graduate Student Emails
 Grad students have two email addresses- a student email (which has numbers, like `tsalo006@fiu.edu`) and an employee email (which generally doesn't, like `tsalo@fiu.edu`). The student email is accessible on Gmail, while the employee email is accessed through Outlook. Make sure to forward your employee email to your student email, or vice versa. Important emails may be sent to either or both, so it is very helpful to just forward one to the other.
@@ -109,4 +112,4 @@ If you are a new undergraduate student with the NBC Lab, please complete the fol
 Every member of our lab should complete MRI safety training so that you will be allowed to access the MRI facilities at FIU's [Center for Imaging Science](https://cismri.fiu.edu). Please click on [this link](https://fiu.qualtrics.com/jfe/form/SV_bkjyKMM2tDJwcxT) to begin this training. You will be provided an opportunity to watch two videos (the Siemens MRI safety video and the CIS MRI safety presentation) and complete the 25-question safety exam. To pass, you must complete the exam with an 80%. If you have any questions, please contact [Laura Ucros](mailto:lucros@fiu.edu).
 
 ## Extra Reading
-The NBC Lab's [Public Google Drive folder](https://drive.google.com/drive/folders/0B543K-QXbp21cTV0RjNoNUtMWnM?usp=sharing) contains a folder called "recommended-reading". A list of recommended textbooks, journal articles, and youtube videos are provided, organized by topic. Topics range from an introduction to MRI data acquisition and analysis to recent papers published by lab members to papers related to newly launched projects. 
+The NBC Lab's [Public Google Drive folder](https://drive.google.com/drive/folders/1cq5J_Nx4ZgcSYTDrgfYueWlYt34phNsl?usp=share_link) contains a folder called "recommended-reading". A list of recommended textbooks, journal articles, and youtube videos are provided, organized by topic. Topics range from an introduction to MRI data acquisition and analysis to recent papers published by lab members to papers related to newly launched projects. 
