@@ -56,10 +56,10 @@ Sign up for the following science-related services:
 3. Learn more about the [FIU IRB Topaz Online Protocol Submissions](https://research.fiu.edu/irb/topaz/), including information on [Accessing the System](https://research.fiu.edu/irb/topaz/#accessingsystem). Submit a [Topaz Protocol Access Request Form](https://webforms.fiu.edu/view.php?id=2099084) so that you will show up in the system and can be added to our IRB protocols. 
 
 ## MRI Safety Training
-Every member of our lab should complete MRI safety training so that you will be allowed to access the MRI facilities at FIU's [Center for Imaging Science](https://cismri.fiu.edu). Please click on [this link](https://fiu.qualtrics.com/jfe/form/SV_bkjyKMM2tDJwcxT) to begin this training. You will be provided an opportunity to watch two videos (the Siemens MRI safety video and the CIS MRI safety presentation) and complete the 25-question safety exam. To pass, you must complete the exam with an 80%. If you have any questions, please contact [Lita Sabates](mailto:lisabate@fiu.edu) .
+Every member of our lab should complete MRI safety training so that you will be allowed to access the MRI facilities at FIU's [Center for Imaging Science](https://cismri.fiu.edu). Please click on [this link](https://fiu.qualtrics.com/jfe/form/SV_bkjyKMM2tDJwcxT) to begin this training. You will be provided an opportunity to watch two videos (the Siemens MRI safety video and the CIS MRI safety presentation) and complete the 25-question safety exam. To pass, you must complete the exam with an 80%. If you have any questions, please contact [Laura Ucros](mailto:lucros@fiu.edu).
 
 ## Physical and In-Person Access
-1. Send a request to [Lita Sabates](mailto:lisabate@fiu.edu) for keycard access to the lab (AHC4 380) as well as the east wing, which will allow you to swipe into the double doors by the elevator leading to our other offices.
+1. Send a request to [Laura Ucros](mailto:lucros@fiu.edu) for keycard access to the lab (AHC4 380) as well as the east wing, which will allow you to swipe into the double doors by the elevator leading to our other offices.
 2. Follow instructions [here](https://castic.fiu.edu/main/app/core/helpguides/Papercut-Mac.pdf) to obtain access to the printer queue. This will allow you to send your print jobs to a queue and release the jobs on the Toshiba printers in AHC-4 using your Panther ID card.
 
 ## Recommended Reading
@@ -106,7 +106,7 @@ If you are a new undergraduate student with the NBC Lab, please complete the fol
 4. Please confirm that you have been added with Dr. Laird BEFORE interacting with any research participant or analyzing any data. 
 
 ## MRI Safety Training
-Every member of our lab should complete MRI safety training so that you will be allowed to access the MRI facilities at FIU's [Center for Imaging Science](https://cismri.fiu.edu). Please click on [this link](https://fiu.qualtrics.com/jfe/form/SV_bkjyKMM2tDJwcxT) to begin this training. You will be provided an opportunity to watch two videos (the Siemens MRI safety video and the CIS MRI safety presentation) and complete the 25-question safety exam. To pass, you must complete the exam with an 80%. If you have any questions, please contact [Lita Sabates](mailto:lisabate@fiu.edu).
+Every member of our lab should complete MRI safety training so that you will be allowed to access the MRI facilities at FIU's [Center for Imaging Science](https://cismri.fiu.edu). Please click on [this link](https://fiu.qualtrics.com/jfe/form/SV_bkjyKMM2tDJwcxT) to begin this training. You will be provided an opportunity to watch two videos (the Siemens MRI safety video and the CIS MRI safety presentation) and complete the 25-question safety exam. To pass, you must complete the exam with an 80%. If you have any questions, please contact [Laura Ucros](mailto:lucros@fiu.edu).
 
 ## Extra Reading
 The NBC Lab's [Public Google Drive folder](https://drive.google.com/drive/folders/0B543K-QXbp21cTV0RjNoNUtMWnM?usp=sharing) contains a folder called "recommended-reading". A list of recommended textbooks, journal articles, and youtube videos are provided, organized by topic. Topics range from an introduction to MRI data acquisition and analysis to recent papers published by lab members to papers related to newly launched projects. 
