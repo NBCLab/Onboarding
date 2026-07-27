@@ -4,12 +4,11 @@ Resources and activities for new NBC Lab members. Inspired by the [Whitaker lab'
 # Graduate Student Onboarding
 If you are a new graduate student with the NBC Lab, please complete the following steps:
  
-## Getting Started on a Research Project
+## Before Getting Started on a Research Project
 1. Read the [NBC Lab Handbook](https://docs.google.com/document/d/12QHTfVnjxmVAk9pki2hhspnFJB7QeDR3scstHV8KE_c/edit).
 2. Complete the [NBC Lab Neuroimaging Training & Resources Plan](https://docs.google.com/document/d/16QDYc9xTYYMlgNUZJ4C0o-IuSS6xLpeR56r3b0ND49E/edit?usp=sharing). This comprehensive document provides resources for learning the basics of programming and data analytics. In addition, provides resources for learning basic Python modules for fMRI research.
 3. Work your way through the [NBC Lab Boot Camp Videos](https://docs.google.com/spreadsheets/d/1gioc-fh-IEubmSVCfovSUdcbqCnWJ92kxk450epA60k/edit?gid=0#gid=0). Please add a row with your name to track your progress through these videos.
 4. Complete the [Recommended Reading](https://drive.google.com/drive/folders/1cq5J_Nx4ZgcSYTDrgfYueWlYt34phNsl). 
-5. Once you have grasped the basics and are ready to work on your own, independent research project, trainees should complete the [NBC Lab Individual Development Plan for Predoctoral and Postdoctoral Scholars](https://docs.google.com/document/d/1ekRK--hkTqg_tBnRisoIZs_IVUrljK2tNyACyXpl8WY/edit?usp=sharing). Please create your own version of this file for editing: click on File → Make a copy and save to your Google Drive; share with others by clicking the blue Share link on the top right.
 
 ## Resource Access and Communication
 1. Ask [Dr. Laird](mailto:alaird@fiu.edu) to give you access to the NBC Lab Outlook calendar. 
